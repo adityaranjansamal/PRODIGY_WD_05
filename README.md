@@ -5,7 +5,7 @@ A modern weather app built with **React**, **SASS**, **Framer Motion**, and **Op
 ---
 
 ## 🚀 **Live Preview**  
-👉 [**Live Demo**](https://your-live-link.com)  
+👉 [**Live Demo**](https://adityarnsamal-celestia-weather.netlify.app/)  
 
 ---
 
@@ -24,11 +24,15 @@ A modern weather app built with **React**, **SASS**, **Framer Motion**, and **Op
 
  
 
+https://github.com/user-attachments/assets/aaefe0b8-e112-46d8-8528-daa2b483e366
+
+
+
 ---
 
 ## 📂 **Folder Structure**  
 ```
-├── public
+├── dist
 ├── src
 │   ├── api.js
 │   ├── components
