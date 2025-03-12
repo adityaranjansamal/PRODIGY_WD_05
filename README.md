@@ -1,5 +1,5 @@
 
-# 🏖️ **Weather App** 🌦️  
+# 🏖️ **Celestia Weather** 🌦️  
 A modern weather app built with **React**, **SASS**, **Framer Motion**, and **OpenWeatherMap API**. It provides real-time weather data, 5-day forecasts, and animated UI elements.  
 
 ---
