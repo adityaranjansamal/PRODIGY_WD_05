@@ -1,0 +1,22 @@
+.header {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  font-size: xx-large;
+  font-family: "Sen", sans-serif;
+  //   letter-spacing: 2px;
+
+  //Responsive
+  @media (max-width: 768px) {
+    font-size: x-large;
+    padding: 16px;
+  }
+
+  @media (max-width: 480px) {
+    font-size: large;
+    padding: 12px;
+  }
+}
